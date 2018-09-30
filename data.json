@@ -1,0 +1,16 @@
+{
+    "stories":
+    [
+        {
+            "Name":"TEST1",
+            "Message":"This is the first of many aspects of the thingy.",
+            "Location":"Canyon, Texas"
+        }
+        ,
+        {
+            "Name":"TEST2",
+            "Message":"This is the first of many aspects of the thingy.",
+            "Location":"Amarillo, Texas"
+        }
+    ]
+}
